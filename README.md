@@ -40,10 +40,10 @@ ___
 
 1. หน้า Light Mode
 
-![index](https://github.com/Adisak-KS/TO-Do-List/blob/main/previews/pre-1.png)
+![index](previews/01_light_mode.png)
 
 2. หน้า Dark Mode
 
-![index](https://github.com/Adisak-KS/TO-Do-List/blob/main/previews/pre-2.png)
+![index](previews/02_dark_mode.png)
 
 
